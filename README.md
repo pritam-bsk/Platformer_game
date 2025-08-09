@@ -17,9 +17,9 @@ A simple 2D platformer built with C++ and SFML, featuring basic player movement,
 ## 🎮 Controls
 | Key | Action |
 |-----|--------|
-| **Left Arrow**  | Move Left |
-| **Right Arrow** | Move Right |
-| **Space**       | Jump |
+| **Left Arrow ⬅️**  | Move Left |
+| **Right Arrow ➡️** | Move Right |
+| **Space ⌨️**       | Jump |
 
 ---
 ## 📸 Screenshots 
